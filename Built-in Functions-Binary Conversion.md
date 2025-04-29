@@ -16,7 +16,7 @@ print(bin(a))
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/6ec88a77-065f-41e6-beb7-844bd6ac2f0c)
+![image](https://github.com/user-attachments/assets/44e4183a-2577-4ec2-bbd8-1b6fac698959)
 
 ## Result
 Thus,the program has been executed successfully.
