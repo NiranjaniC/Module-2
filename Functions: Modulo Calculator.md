@@ -18,7 +18,8 @@ def result(a,b):
 
 a=int(input())
 b=int(input())
-result(a,b)```
+result(a,b)
+```
 
 
 ## Output
